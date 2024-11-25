@@ -1,0 +1,3 @@
+helper\SQLite.class
+org\emiage\reservation\JakartaRestConfiguration.class
+org\emiage\reservation\resources\JakartaEE10Resource.class
